@@ -1,0 +1,40 @@
+#footer{
+    background-color: #000;
+    margin-top: 50px;
+}
+.ftrlogo img{
+    width: 150px;
+}
+.footermain{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.footermain h4{
+    color: #fff;
+}
+.footermain ul li a {
+    color: #fff;
+    padding: 8px 0;
+    display: block;
+}
+.footermain ul li a:hover{
+    color: #A435F0;
+}
+.cpymain{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.cpylogo{
+    display: flex;
+    gap: 30px;
+}
+.cpylogo a{
+    color: #000;
+}
+.cpylogo a:hover{
+    color: #A435F0;
+}

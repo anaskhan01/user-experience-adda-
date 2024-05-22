@@ -1,0 +1,19 @@
+
+.searchflex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 0;
+}
+
+.input-txt{
+    border: none;
+    font-size: 1.2rem;
+    width: 50%;
+  }
+  .input-txt:focus {
+    outline: none;
+  }
+.closebtn{
+  cursor: pointer;
+}

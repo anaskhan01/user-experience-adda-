@@ -1,0 +1,37 @@
+#wrappersection {
+    padding-top: 50px;
+}
+
+.wrapperheading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper-main {
+    display: flex;
+    gap: 20px;
+}
+
+.wrappers {
+    width: 33%;
+    background-color: #FCF7FF;
+
+}
+
+.wrapperstext {
+    padding: 15px;
+}
+
+.dateandicon {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+.dateandicon span {
+    font-size: 0.8rem;
+}
+.borderbreak{
+    border: 2px solid #f6f6f2;
+}

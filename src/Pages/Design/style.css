@@ -1,0 +1,45 @@
+.designmain {
+    display: flex;
+    gap: 30px;
+}
+
+.designwrapper {
+    width: 60%;
+}
+
+.designcontext {
+    padding: 15px;
+}
+
+.news {
+    transform: translateY(-80px);
+}
+
+.cardmain {
+    display: flex;
+    margin-top: 30px;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.firstcard {
+    flex: 0 0 auto;
+    max-width: calc(50% - 10px);
+    background-color: #f2f2f2;
+}
+
+.firstcard:first-child {
+    max-width: 100%;
+}
+
+.cardtext {
+    padding: 15px;
+}
+
+.dateandicon {
+    display: flex;
+    color: #ADADBD;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 10px;
+}
